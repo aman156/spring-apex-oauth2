@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SpringAngularApplication",
+            "request": "launch",
+            "mainClass": "com.client.app.springangular.SpringAngularApplication",
+            "projectName": "spring-angular"
+        }
+    ]
+}
